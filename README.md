@@ -13,7 +13,7 @@ This project is not official. It is not affiliated with the respective owners an
 * The plugin has been tested on the third snapshot/pre-release of the 2020.4, but it should work also with the 2020.3
 
 ## Downloads/Install Instructions
-Downloads can be found on the [Release page of this repo](https://github.com/Goldorion/MCreatorSpigotGenerator/releases).
+Downloads can be found on the [Release page of this repo](https://github.com/Goldorion/MCreatorPluginFiles/releases).
 The plugin's MCreator page is [here](https://mcreator.net/plugin/64638/file-creator).
 
 Install like any other plugin: Launch MCreator -> Open preferences -> Manage plugins -> Load Plugin -> Find your downloaded zip file -> **Restart MCreator**.
