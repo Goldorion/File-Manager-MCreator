@@ -1,0 +1,10 @@
+{
+  "id": "files",
+  "minversion": 202000400000,
+  "info": {
+    "name": "Files",
+    "description": "Create your own files",
+    "author": "Goldorion",
+    "version": 1.0
+  }
+}

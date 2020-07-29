@@ -1,0 +1,29 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "text",
+      "check": "String"
+    },
+    {
+      "type": "field_input",
+      "name": "var"
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 160,
+  "mcreator": {
+    "toolbox_id": "files",
+    "toolbox_init": [
+      "<value name=\"text\"><block type=\"text\"><field name=\"TEXT\">text</field></block></value>"
+    ],
+    "fields": [
+      "var"
+    ],
+    "inputs": [
+      "text"
+    ]
+  }
+}
