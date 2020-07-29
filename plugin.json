@@ -1,8 +1,8 @@
 {
   "id": "files",
-  "minversion": 202000400000,
+  "minversion": 202000300000,
   "info": {
-    "name": "Files",
+    "name": "File Creator",
     "description": "Create your own files",
     "author": "Goldorion",
     "version": 1.0
