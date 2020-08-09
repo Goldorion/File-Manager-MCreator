@@ -1,1 +1,1 @@
-${field$var}ReadLine
+(${field$var}ReadLine)

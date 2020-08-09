@@ -1,6 +1,10 @@
 {
   "args0": [
     {
+      "type": "field_value",
+      "name": "var"
+    },
+    {
       "type": "input_value",
       "name": "name",
       "check": "String"
@@ -20,6 +24,9 @@
     "toolbox_init": [
       "<value name=\"name\"><block type=\"text\"><field name=\"TEXT\">file name</field></block></value>",
       "<value name=\"location\"><block type=\"text\"><field name=\"TEXT\">location</field></block></value>"
+    ],
+    "field": [
+      "var"
     ],
     "inputs": [
       "name",

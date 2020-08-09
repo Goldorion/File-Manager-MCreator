@@ -1,5 +1,5 @@
-File folder = new File(${input$location} + "/" + ${input$name});
-			if(!folder.exists())
+File ${field$var} = new File(${input$location} + "/" + ${input$name} + "/");
+			if(!${field$var}.exists())
 			{
-				folder.mkdir();
+				${field$var}.mkdir();
 			}
