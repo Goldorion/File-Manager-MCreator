@@ -5,8 +5,8 @@ An unofficial plugin for [MCreator](https://mcreator.net/), a code generator to 
 This project is not official. It is not affiliated with the respective owners and maintainers of Minecraft, or MCreator. Do not expect any official support from their communities.
 
 ## Features
-* [Create your own files and folders](https://i.imgur.com/DpfWeu0.png)
-* [Read files](https://i.imgur.com/AQd1sl3.png)
+* [Create your own files and folders](https://i.imgur.com/QuySPbb.png)
+* [Read files](https://i.imgur.com/9x1zLty.png)
 
 ## Important Information
 * This plugin supports Forge (1.12.2, 1.14.4 and 1.15.2), [Fabric](https://github.com/ClothCreators/MCreatorFabricGenerator) (1.16.2) and [Spigot](https://github.com/Goldorion/MCreatorSpigotGenerator) (1.16.2).
