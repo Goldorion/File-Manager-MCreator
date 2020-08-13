@@ -9,7 +9,7 @@ This project is not official. It is not affiliated with the respective owners an
 * [Read files](https://i.imgur.com/AQd1sl3.png)
 
 ## Important Information
-* This plugin supports Forge (1.12.2, 1.14.4 and 1.15.2), [Fabric](https://github.com/ClothCreators/MCreatorFabricGenerator) (1.16.1) and [Spigot](https://github.com/Goldorion/MCreatorSpigotGenerator) (1.16.1).
+* This plugin supports Forge (1.12.2, 1.14.4 and 1.15.2), [Fabric](https://github.com/ClothCreators/MCreatorFabricGenerator) (1.16.2) and [Spigot](https://github.com/Goldorion/MCreatorSpigotGenerator) (1.16.2).
 * The plugin has been tested on the third snapshot/pre-release of the 2020.4, but it should work also with the 2020.3
 
 ## Downloads/Install Instructions
