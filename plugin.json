@@ -1,6 +1,6 @@
 {
   "id": "files",
-  "minversion": 202000400000,
+  "minversion": 2020432115,
   "info": {
     "name": "File Creator",
     "description": "Create your own files",
