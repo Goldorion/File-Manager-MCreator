@@ -8,6 +8,11 @@ Please do not expect any official support from their communities.
 ## Features
 * [Create your own files and folders](https://i.imgur.com/QuySPbb.png)
 * [Read files](https://i.imgur.com/9x1zLty.png)
+* [List of functions](https://i.imgur.com/V0QDJ1f.png)
+
+
+## Function list (updating soon)
+* File Path Seperator [Windows](https://i.imgur.com/JEV5T9f.png) *Linux(Preview Coming Soon)*
 
 ## Important Information
 * This plugin is a fork of [MCreatorPluginFiles](https://github.com/ClothCreators/MCreatorPluginFiles)(2.0.1)
