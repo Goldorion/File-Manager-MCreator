@@ -21,7 +21,7 @@ Please do not expect any official support from their communities.
 Install like any other plugin: Launch MCreator -> Open preferences -> Manage plugins -> Load Plugin -> Find your downloaded zip file -> **Restart MCreator**.
 
 ## Credits/License
-**Original Dev** - [Goldorion](https://github.com/Goldorion)
+**Original Dev** - [Goldorion](https://github.com/Goldorion)<br>
 **This Fork Dev** - [Lex Shadow](https://github.com/LexShadow/)
 
 Licensed under the GNU Lesser General Public License, version 2.1  
