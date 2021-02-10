@@ -18,6 +18,11 @@
       "type": "field_checkbox",
       "name": "createFile",
       "checked": false
+    },
+    {
+      "type": "field_checkbox",
+      "name": "isDirectory",
+      "checked": false
     }
   ],
   "inputsInline": true,
@@ -32,7 +37,8 @@
     ],
     "fields": [
       "var",
-      "createFile"
+      "createFile",
+	  "isDirectory"
     ],
     "inputs": [
       "name",
