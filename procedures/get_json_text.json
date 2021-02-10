@@ -1,0 +1,20 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "name",
+      "check": "String"
+    }
+  ],
+  "output": "String",
+  "colour": "%{BKY_TEXTS_HUE}",
+  "mcreator": {
+    "toolbox_id": "file_creator",
+    "toolbox_init": [
+    "<value name=\"name\"><block type=\"text\"><field name=\"TEXT\">name</field></block></value>"
+    ],
+    "inputs": [
+      "name"
+    ]
+  }
+}
