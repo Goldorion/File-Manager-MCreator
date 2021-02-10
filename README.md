@@ -5,8 +5,8 @@ An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to creat
 This project is not official. It is not affiliated with the respective owners and maintainers of Minecraft, or MCreator. Do not expect any official support from their communities.
 
 ## Features
-* [Create your own files and folders](https://i.imgur.com/QuySPbb.png)
-* [Read files](https://i.imgur.com/9x1zLty.png)
+* [TXT files](https://i.imgur.com/c2PR0DA.png)
+* [JSON files](https://i.imgur.com/owBAZYv.png)
 
 ## Important Information
 * This plugin supports Forge 1.14.4, 1.15.2 and 1.16.4.
