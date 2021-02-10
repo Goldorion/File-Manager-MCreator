@@ -1,6 +1,8 @@
 #3.0
 **THIS UPDATE IS NOT COMPATIBLE WITH THE LAST VERSIONS**
 Note: The plugin ID has been changed, so you can use an older version with this one.
+Versions: Forge 1.14.4, Forge 1.15.2, Forge 1.16.4
+
 * Moved the writing and reading procedure blocks to input statements
 * Moved the block to create a directory in the setter variable block
 * Removed the "Get user directory" procedure block
@@ -9,7 +11,6 @@ Note: The plugin ID has been changed, so you can use an older version with this 
 * Added a File separator block
 * Added a getter to get the file's name
 * Renamed the category
-
 
 #2.0.1
 * Fixed the category colour
