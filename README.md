@@ -5,8 +5,10 @@ An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to creat
 This project is not official. It is not affiliated with the respective owners and maintainers of Minecraft, or MCreator. Do not expect any official support from their communities.
 
 ## Features
-* [TXT files](https://i.imgur.com/c2PR0DA.png)
-* [JSON files](https://i.imgur.com/owBAZYv.png)
+TXT Files:
+![](https://i.imgur.com/c2PR0DA.png)
+JSON Files:
+![](https://i.imgur.com/owBAZYv.png)
 
 ## Important Information
 * This plugin supports Forge 1.14.4, 1.15.2 and 1.16.4.
