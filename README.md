@@ -1,5 +1,5 @@
 # File Manager
-An unofficial plugin for [MCreator](https://mcreator.net/), a code generator to create Minecraft plugins. This MCreator plugin allow you to create files for what you want.
+An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to create and read custom files.
 
 ## Disclaimer
 This project is not official. It is not affiliated with the respective owners and maintainers of Minecraft, or MCreator. Do not expect any official support from their communities.
