@@ -1,0 +1,42 @@
+{
+  "args0": [
+    {
+      "type": "field_input",
+      "name": "var"
+    },
+    {
+      "type": "input_value",
+      "name": "name",
+      "check": "String"
+    },
+    {
+      "type": "input_value",
+      "name": "location",
+      "check": "String"
+    },
+    {
+      "type": "field_checkbox",
+      "name": "createFile",
+      "checked": false
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 260,
+  "mcreator": {
+    "toolbox_id": "file_creator",
+    "toolbox_init": [
+      "<value name=\"name\"><block type=\"text\"><field name=\"TEXT\">name.extension</field></block></value>",
+      "<value name=\"location\"><block type=\"text\"><field name=\"TEXT\">location</field></block></value>"
+    ],
+    "fields": [
+      "var",
+      "createFile"
+    ],
+    "inputs": [
+      "name",
+      "location"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "args0": [
+    {
+      "type": "field_input",
+      "name": "var"
+    },
+    {
+      "type": "input_statement",
+      "name": "text"
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 260,
+  "mcreator": {
+    "toolbox_id": "file_creator",
+    "statements": [
+      {
+        "name": "text"
+      }
+    ],
+    "fields": [
+      "var"
+    ]
+  }
+}
