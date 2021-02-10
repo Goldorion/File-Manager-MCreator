@@ -12,10 +12,10 @@ Versions: Forge 1.14.4, Forge 1.15.2, Forge 1.16.4
 * Added a getter to get the file's name
 * Renamed the category
 
-#2.0.1
+# 2.0.1
 * Fixed the category colour
 
-#2.0.0
+# 2.0.0
 This new version is incompatible with the previous versions.
 * Added support for Fabric and Spigot 1.16.2
 * Removed support for Fabric and Spigot 1.16.1
@@ -23,12 +23,12 @@ This new version is incompatible with the previous versions.
 * Changed the colour of the blocks and the category
 * Fixed the field input of the procedure block to create a folder
 
-#1.1
+# 1.1
 
 * Removed support for the Fabric1.15.2 generator
 * Added a new procedure block
 * The procedure block to create a folder now needs a variable name.
 * The code of Get the text of the latest read line of *variable* is now in parentheses.
 
-#1.0
+# 1.0
 Initial release
