@@ -1,4 +1,4 @@
-#3.0
+# 3.0
 **THIS UPDATE IS NOT COMPATIBLE WITH THE LAST VERSIONS**
 Note: The plugin ID has been changed, so you can use an older version with this one.
 Versions: Forge 1.14.4, Forge 1.15.2, Forge 1.16.4
