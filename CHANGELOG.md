@@ -1,9 +1,13 @@
 #3.0
 **THIS UPDATE IS NOT COMPATIBLE WITH THE LAST VERSIONS**
+Note: The plugin ID has been changed, so you can use an older version with this one.
 * Moved the writing and reading procedure blocks to input statements
+* Moved the block to create a directory in the setter variable block
 * Removed the "Get user directory" procedure block
 * Added a "Get game directory" procedure block
 * Added a new parameter to add a new line or not
+* Added a File separator block
+* Added a getter to get the file's name
 * Renamed the category
 
 
