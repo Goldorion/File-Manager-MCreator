@@ -16,7 +16,7 @@
   "nextStatement": null,
   "colour": 260,
   "mcreator": {
-    "toolbox_id": "file_creator",
+    "toolbox_id": "file_manager",
     "toolbox_init": [
     "<value name=\"name\"><block type=\"text\"><field name=\"TEXT\">name</field></block></value>",
       "<value name=\"value\"><block type=\"logic_boolean\"><field name=\"BOOL\">TRUE</field></block></value>"

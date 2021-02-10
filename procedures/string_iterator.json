@@ -2,6 +2,6 @@
   "output": "String",
   "colour": "%{BKY_TEXTS_HUE}",
   "mcreator": {
-    "toolbox_id": "file_creator"
+    "toolbox_id": "file_manager"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "id": "files",
-  "minversion": 202000500000,
+  "id": "file-manager",
+  "minversion": 202000539514,
   "info": {
-    "name": "File Creator",
-    "description": "Create your own files",
+    "name": "File Manager",
+    "description": "Create and read your files",
     "author": "Goldorion",
-    "version": "3.0.0"
+    "version": "3.0"
   }
 }

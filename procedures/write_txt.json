@@ -14,7 +14,7 @@
   "nextStatement": null,
   "colour": 260,
   "mcreator": {
-    "toolbox_id": "file_creator",
+    "toolbox_id": "file_manager",
     "statements": [
       {
         "name": "text"
