@@ -12,7 +12,7 @@ JSON Files:
 
 ## Important Information
 * This plugin supports Forge 1.14.4, 1.15.2 and 1.16.4.
-* You need to be on the second snapshot of the 2020.5 or more recent/
+* You need to be on the second snapshot of the 2020.5 or more recent.
 
 ## Downloads/Install Instructions
 Downloads can be found on the [Release page of this repo](https://github.com/Goldorion/File-Manager-MCreator/releases).
