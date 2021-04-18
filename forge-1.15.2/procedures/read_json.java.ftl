@@ -1,18 +1,16 @@
 {
 	try {
 		BufferedReader ${field$var}Reader = new BufferedReader(new FileReader(${field$var}));
-		String json = "";
-	String line = "";
+		StringBuilder jsonstringbuilder = new StringBuilder();
+		String line;
 		while((line = ${field$var}Reader.readLine()) != null) {
-			json = json + line;
+			jsonstringbuilder.append(line);
 		}
 		${field$var}Reader.close();
 
-	JsonObject obj = new Gson().fromJson(json, JsonObject.class);
-	${statement$values}
+		JsonObject ${field$jVar} = new Gson().fromJson(jsonstringbuilder.toString(), JsonObject.class);
+		${statement$values}
   
-	} catch (FileNotFoundException e) {
-		e.printStackTrace();
 	} catch (IOException e) {
 		e.printStackTrace();
 	}

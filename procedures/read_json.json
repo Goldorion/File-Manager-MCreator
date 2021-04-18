@@ -7,6 +7,10 @@
     {
       "type": "input_statement",
       "name": "values"
+    },
+    {
+      "type": "field_input",
+      "name": "jVar"
     }
   ],
   "inputsInline": true,
@@ -21,7 +25,8 @@
       }
     ],
     "fields": [
-      "var"
+      "var",
+      "jVar"
     ]
   }
 }

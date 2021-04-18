@@ -1,6 +1,7 @@
 ## 3.1
-* Added a new procedure block to create sub JSON objects
-* "Add Json property" now requires a variable name
+* Added the possibility to create and read sub JSON objects
+ // A new procedure block has also been added
+ // Notes: JSON related blocks now require a file variable name
 
 # 3.0
 **THIS UPDATE IS NOT COMPATIBLE WITH THE LAST VERSIONS**

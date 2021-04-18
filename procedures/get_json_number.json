@@ -4,6 +4,10 @@
       "type": "input_value",
       "name": "name",
       "check": "String"
+    },
+    {
+      "type": "field_input",
+      "name": "vars"
     }
   ],
   "output": "Number",
@@ -15,6 +19,9 @@
     ],
     "inputs": [
       "name"
+    ],
+    "fields": [
+      "vars"
     ]
   }
 }
