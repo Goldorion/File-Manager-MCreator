@@ -1,7 +1,10 @@
 ## 3.1
+* Updated to Forge & Fabric 1.16.5
 * Added the possibility to create and read sub JSON objects
  // A new procedure block has also been added
  // Notes: JSON related blocks now require a file variable name
+* [Bugfix] Get game directory could not be used on Forge servers
+ // The block still does not with Fabric servers
 
 # 3.0
 **THIS UPDATE IS NOT COMPATIBLE WITH THE LAST VERSIONS**
