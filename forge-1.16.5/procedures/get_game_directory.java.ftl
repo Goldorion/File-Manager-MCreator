@@ -1,1 +1,1 @@
-Minecraft.getInstance().gameDir
+FMLPaths.GAMEDIR.get().toString()
