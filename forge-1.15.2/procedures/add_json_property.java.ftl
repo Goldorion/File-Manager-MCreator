@@ -1,1 +1,1 @@
-obj.addProperty(${input$name}, ${input$value});
+${field$var}.addProperty(${input$name}, ${input$value});

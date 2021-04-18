@@ -8,6 +8,10 @@
     {
       "type": "input_value",
       "name": "value"
+    },
+    {
+      "type": "field_input",
+      "name": "var"
     }
   ],
   "inputsInline": true,
@@ -18,6 +22,9 @@
     "toolbox_id": "file_manager",
     "toolbox_init": [
     "<value name=\"name\"><block type=\"text\"><field name=\"TEXT\">name</field></block></value>"
+    ],
+    "fields": [
+      "var"
     ],
     "inputs": [
       "name",

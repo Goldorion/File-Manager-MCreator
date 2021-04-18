@@ -1,3 +1,7 @@
+## 3.1
+* Added a new procedure block to create sub JSON objects
+* "Add Json property" now requires a variable name
+
 # 3.0
 **THIS UPDATE IS NOT COMPATIBLE WITH THE LAST VERSIONS**
 Note: The plugin ID has been changed, so you can use an older version with this one.
@@ -15,7 +19,7 @@ Versions: Forge 1.14.4, Forge 1.15.2, Forge 1.16.4
 # 2.0.1
 * Fixed the category colour
 
-# 2.0.0
+# 2.0
 This new version is incompatible with the previous versions.
 * Added support for Fabric and Spigot 1.16.2
 * Removed support for Fabric and Spigot 1.16.1
