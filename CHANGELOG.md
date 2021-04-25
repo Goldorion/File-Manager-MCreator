@@ -1,8 +1,9 @@
 ## 3.1
 * Updated to MCreator 2021.1.16710
 * Updated to Forge & Fabric 1.16.5
+* Removed support for Forge 1.14.4
 * Added a new block to create sub JSON objects
-* Added a new block to read sub JSON objects
+* Updated current JSON property getters to read sub JSON objects
 * JSON related blocks now require a JSON object variable name
 * [Bugfix] Get game directory could not be used on Forge servers
  // The block still does not with Fabric servers
