@@ -1,6 +1,8 @@
 ## 4.0
-**This update may cause problems in some cases with the last version.**
+**This update will cause build errors in your workspace. You now have to use a variable as usually.**
 * Updated to MCreator 2021.2.26215
+* Changed a bit the block color
+* Adapted the `Create file` procedure block for the new variable system
 
 ## 3.1
 * Updated to MCreator 2021.1.16710
