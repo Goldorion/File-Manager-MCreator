@@ -1,4 +1,4 @@
-defaultvalue: new File()
+defaultvalue: new File("")
 scopes:
   local:
     init: ${var.getType().getJavaType(generator.getWorkspace())} ${var.getName()} = ${var.getType().getDefaultValue(generator.getWorkspace())};

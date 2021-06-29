@@ -1,10 +1,10 @@
-${field$file} = new File(${input$location}, File.separator + ${input$name});
+${input$file} = new File(${input$location}, File.separator + ${input$name});
 <#if field$isDirectory?lower_case == "true">
-    ${field$var}.mkdirs();
+    ${input$file}.mkdirs();
 <#else>
-    if (!${field$file}.exists()) {
+    if (!${input$file}.exists()) {
         try {
-            ${field$file}.createNewFile();
+            ${input$file}.createNewFile();
         } catch (IOException exception) {
             exception.printStackTrace();
         }
