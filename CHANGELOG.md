@@ -1,3 +1,7 @@
+## 4.0
+**This update may cause problems in some cases with the last version.**
+* Updated to MCreator 2021.2.26215
+
 ## 3.1
 * Updated to MCreator 2021.1.16710
 * Updated to Forge & Fabric 1.16.5
