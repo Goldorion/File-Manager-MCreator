@@ -1,8 +1,9 @@
 {
   "args0": [
     {
-      "type": "field_input",
-      "name": "var"
+      "type": "input_value",
+      "name": "var",
+      "check": "File"
     },
     {
       "type": "input_statement",
@@ -25,8 +26,10 @@
       }
     ],
     "fields": [
-      "var",
       "jVar"
+    ],
+    "inputs": [
+      "var"
     ]
   }
 }

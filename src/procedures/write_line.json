@@ -6,8 +6,9 @@
       "check": "String"
     },
     {
-      "type": "field_input",
-      "name": "var"
+      "type": "input_value",
+      "name": "var",
+      "check": "File"
     },
     {
       "type": "field_checkbox",
@@ -25,10 +26,10 @@
       "<value name=\"text\"><block type=\"text\"><field name=\"TEXT\">text</field></block></value>"
     ],
     "fields": [
-      "var",
       "newLine"
     ],
     "inputs": [
+      "var",
       "text"
     ]
   }
