@@ -5,9 +5,9 @@
 	${statement$json}
 
 	try {
-  		FileWriter ${field$var}fw = new FileWriter(${field$var});
-  		${field$var}fw.write(mainGSONBuilderVariable.toJson(${field$jvar}));
-  		${field$var}fw.close();
+  		FileWriter ${input$var}fw = new FileWriter(${input$var});
+  		${input$var}fw.write(mainGSONBuilderVariable.toJson(${field$jvar}));
+  		${input$var}fw.close();
 	} catch (IOException exception) {
   		exception.printStackTrace();
   	}	
