@@ -6,10 +6,10 @@ This project is not official. It is not affiliated with the respective owners an
 
 ## Features
 TXT Files:
-![](https://i.imgur.com/872nZ5h.png)
+![](https://i.imgur.com/0v2PSEZ.png)
 In this example, each time a block is broken a new file named `file.txt` will be created at the current game's directory. Then, the procedure will read this same file and send a message to the player each line of the file.
 JSON Files:
-![](https://i.imgur.com/aMu2nAx.png)
+![](https://i.imgur.com/Oxrp570.png)
 This image shows an example of a small JSON file containing another JSON object with values and a value. The first (main) JSON object (shown by the "Write following values as a JSON file" block) contains everything the JSON file will have. Then, the sub JSON object will be created containing normal values. When the JSON object has been added into the file, the procedure will get the field named `number` into the JSON object `subgson` shown here by `gson,subgson`. To get a sub JSON object. you have to write every JSON objects in the order of the procedure and separte them with a comma (**No space**).
 
 ## Important Information

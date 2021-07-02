@@ -2,7 +2,13 @@
 **This update will cause build errors in your workspace. You now have to use a variable as usually.**
 * Updated to MCreator 2021.2.26215
 * Changed a bit the block color
-* Adapted the `Create file` procedure block for the new variable system
+* Added a new `File` variable
+  * Local and Global session
+* Updated procedure blocks to use the new variable type
+  * Use the getter block to use your `File` variable
+  * Current procedures need to be updated to use this new system. 
+    Build errors will appear the first time you open your workspace.
+* Added a new logic procedure block: Does file exists
 
 ## 3.1
 * Updated to MCreator 2021.1.16710
