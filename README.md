@@ -14,7 +14,7 @@ This image shows an example of a small JSON file containing another JSON object 
 
 ## Important Information
 * This plugin supports Forge 1.15.2, Forge 1.16.5 and Fabric 1.16.5
-* * Version 3.1: You need to use on the full release of the 2021.1.
+* * Version 3.1: You need to be on the full release of the 2021.1.
   * Version 4.0: You need to use MCreator EAP 2021.2.26215. 
 
 ## Downloads/Install Instructions

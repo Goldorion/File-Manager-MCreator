@@ -1,3 +1,6 @@
+## 4.0.1
+* [Bugfix #9] Writing to global files resulted in a build error
+
 ## 4.0
 **This update will cause build errors in your workspace. You now have to use a variable as usually.**
 * Updated to MCreator 2021.2.26215
