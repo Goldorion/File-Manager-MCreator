@@ -1,12 +1,12 @@
 {
 	try {
-		BufferedReader br = new BufferedReader(new FileReader(${input$var}));
+		BufferedReader bufferedReader = new BufferedReader(new FileReader(${input$var}));
 		StringBuilder jsonstringbuilder = new StringBuilder();
 		String line;
-		while((line = br.readLine()) != null) {
+		while((line = bufferedReader.readLine()) != null) {
 			jsonstringbuilder.append(line);
 		}
-		br.close();
+		bufferedReader.close();
 
 		JsonObject ${field$jVar} = new Gson().fromJson(jsonstringbuilder.toString(), JsonObject.class);
 		${statement$values}
