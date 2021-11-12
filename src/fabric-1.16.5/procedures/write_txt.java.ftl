@@ -1,13 +1,11 @@
 try {
-  FileWriter ${field$var}writer = new FileWriter(${field$var});
-  BufferedWriter ${field$var}bw = new BufferedWriter(${field$var}writer);
+  FileWriter ${input$var}writer = new FileWriter(${input$var});
+  BufferedWriter ${input$var}bw = new BufferedWriter(${input$var}writer);
   
   ${statement$text}
 
-  ${field$var}bw.close();
-  ${field$var}writer.close();
-} catch (FileNotFoundException fileNotFoundException) {
-  fileNotFoundException.printStackTrace();
+  ${input$var}bw.close();
+  ${input$var}writer.close();
 } catch (IOException exception) {
   exception.printStackTrace();
 }

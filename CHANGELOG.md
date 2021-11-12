@@ -1,3 +1,6 @@
+## 4.0.2
+* [Bugfix #16] Write txt file and Write line procedure blocks didn't generate their code
+
 ## 4.0.1
 * [Bugfix #9] Writing to global files resulted in a build error
 

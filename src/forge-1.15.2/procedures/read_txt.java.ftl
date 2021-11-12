@@ -5,8 +5,6 @@ try {
 		${statement$foreach}
 	}
 	${input$var}Reader.close();
-} catch (FileNotFoundException e) {
-	e.printStackTrace();
 } catch (IOException e) {
     e.printStackTrace();
 }
