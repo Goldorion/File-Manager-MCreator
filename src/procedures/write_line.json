@@ -10,9 +10,9 @@
       "name": "var"
     },
     {
-      "type": "field_checkbox",
+      "type": "input_value",
       "name": "newLine",
-      "checked": false
+      "check": "Boolean"
     }
   ],
   "extensions": [
@@ -26,14 +26,15 @@
   "mcreator": {
     "toolbox_id": "file_manager",
     "toolbox_init": [
-      "<value name=\"text\"><block type=\"text\"><field name=\"TEXT\">text</field></block></value>"
+      "<value name=\"text\"><block type=\"text\"><field name=\"TEXT\">text</field></block></value>",
+      "<value name=\"newLine\"><block type=\"logic_boolean\"><field name=\"BOOL\">FALSE</field></block></value>"
     ],
     "fields": [
-      "VAR",
-      "newLine"
+      "VAR"
     ],
     "inputs": [
-      "text"
+      "text",
+      "newLine"
     ]
   }
 }
