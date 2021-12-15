@@ -1,6 +1,6 @@
 {
 	Gson mainGSONBuilderVariable = new GsonBuilder().setPrettyPrinting().create();
-	JsonObject ${field$jvar} = new JsonObject();
+	com.google.gson.JsonObject ${field$jvar} = new com.google.gson.JsonObject();
 
 	${statement$json}
 
