@@ -7,25 +7,25 @@
     },
     {
       "type": "input_dummy",
-      "name": "var"
+      "name": "jobjvar"
     }
   ],
   "extensions": [
-    "jsonobject_variables"
+    "custom_jsonobject_variables"
   ],
-  "mutator": "variable_entity_input",
-  "output": "Boolean",
-  "colour": "%{BKY_LOGIC_HUE}",
+  "output": "JsonObject",
+  "inputsInline": true,
+  "colour": "#5B3B77",
   "mcreator": {
     "toolbox_id": "file_manager",
     "toolbox_init": [
-    "<value name=\"name\"><block type=\"text\"><field name=\"TEXT\">name</field></block></value>"
+      "<value name=\"name\"><block type=\"text\"><field name=\"TEXT\">name</field></block></value>"
+    ],
+    "fields": [
+      "JOBJVAR"
     ],
     "inputs": [
       "name"
-    ],
-    "fields": [
-      "VAR"
     ]
   }
 }

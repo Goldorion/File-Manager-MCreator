@@ -10,21 +10,24 @@
       "name": "value"
     },
     {
-      "type": "field_input",
-      "name": "var"
+      "type": "input_dummy",
+      "name": "jobjvar"
     }
+  ],
+  "extensions": [
+    "custom_jsonobject_variables"
   ],
   "inputsInline": true,
   "previousStatement": null,
   "nextStatement": null,
-  "colour": 270,
+  "colour": "#5B3B77",
   "mcreator": {
     "toolbox_id": "file_manager",
     "toolbox_init": [
     "<value name=\"name\"><block type=\"text\"><field name=\"TEXT\">name</field></block></value>"
     ],
     "fields": [
-      "var"
+      "JOBJVAR"
     ],
     "inputs": [
       "name",

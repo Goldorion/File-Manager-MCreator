@@ -6,10 +6,14 @@
       "check": "String"
     },
     {
-      "type": "field_input",
-      "name": "vars"
+      "type": "input_dummy",
+      "name": "var"
     }
   ],
+  "extensions": [
+    "jsonobject_variables"
+  ],
+  "mutator": "variable_entity_input",
   "output": "String",
   "colour": "%{BKY_TEXTS_HUE}",
   "mcreator": {
@@ -21,7 +25,7 @@
       "name"
     ],
     "fields": [
-      "vars"
+      "VAR"
     ]
   }
 }

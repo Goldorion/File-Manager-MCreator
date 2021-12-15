@@ -1,0 +1,1 @@
+${field$JOBJVAR?replace("local:", "")?replace("global:", "")}.add(${input$name}, ${field$VAR?replace("local:", "")?replace("global:", "")});

@@ -2,6 +2,10 @@
 * Updated to MCreator 2021.3.51219
 * Removed support for Forge 1.15.2
 * Added support for Forge 1.17.1
+* Added a new JsonObject variable type
+* Removed the "Create sub JSON object" block
+* Added "Add JSON object to Json Object" and "Get Json Object property" blocks
+* Changed the old Json Object fields to the new JsonObject variable list
 * Procedure blocks requiring a file variable now use a normal variable list
 * Created file block has been changed for a block giving values to the setter block variable
 * Added a new create file procedure block

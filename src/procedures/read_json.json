@@ -9,12 +9,13 @@
       "name": "values"
     },
     {
-      "type": "field_input",
-      "name": "jVar"
+      "type": "input_dummy",
+      "name": "jobjvar"
     }
   ],
   "extensions": [
-    "file_variables"
+    "file_variables",
+    "custom_jsonobject_variables"
   ],
   "mutator": "variable_entity_input",
   "inputsInline": true,
@@ -30,7 +31,7 @@
     ],
     "fields": [
       "VAR",
-      "jVar"
+      "JOBJVAR"
     ]
   }
 }

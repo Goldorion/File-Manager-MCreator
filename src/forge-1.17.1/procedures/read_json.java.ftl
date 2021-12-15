@@ -8,7 +8,7 @@
 		}
 		bufferedReader.close();
 
-		com.google.gson.JsonObject ${field$jVar} = new Gson().fromJson(jsonstringbuilder.toString(), com.google.gson.JsonObject.class);
+		${field$JOBJVAR?replace("local:", "")?replace("global:", "")} = new Gson().fromJson(jsonstringbuilder.toString(), com.google.gson.JsonObject.class);
 		${statement$values}
   
 	} catch (IOException e) {
