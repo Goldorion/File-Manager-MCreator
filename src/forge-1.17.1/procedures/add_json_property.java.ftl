@@ -1,1 +1,1 @@
-${field$VAR?replace("local:", "")?replace("global:", "")}.addProperty(${input$name}, ${input$value});
+${field$var}.addProperty(${input$name}, ${input$value});

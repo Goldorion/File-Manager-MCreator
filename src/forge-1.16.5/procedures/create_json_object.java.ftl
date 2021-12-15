@@ -1,3 +1,3 @@
-JsonObject ${field$VAR?replace("local:", "")?replace("global:", "")} = new JsonObject();
+com.google.gson.JsonObject ${field$var} = new com.google.gson.JsonObject();
 ${statement$json}
-${field$inside}.add("${field$VAR?replace("local:", "")?replace("global:", "")}", ${field$VAR?replace("local:", "")?replace("global:", "")});
+${field$inside}.add("${field$var}", ${field$var});
