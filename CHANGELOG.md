@@ -1,3 +1,6 @@
+## 4.1
+* Removed support for Forge 1.15.2
+
 ## 4.0.2
 * [Bugfix #16] Write txt file and Write line procedure blocks didn't generate their code
 
