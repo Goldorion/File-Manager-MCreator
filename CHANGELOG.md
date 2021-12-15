@@ -1,4 +1,5 @@
 ## 5.0
+Note: This version breaks workspaces using a previous update.
 * Updated to MCreator 2021.3.51219
 * Removed support for Forge 1.15.2
 * Added support for Forge 1.17.1
