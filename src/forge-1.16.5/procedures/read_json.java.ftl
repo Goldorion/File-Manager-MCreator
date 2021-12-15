@@ -1,6 +1,6 @@
 {
 	try {
-		BufferedReader bufferedReader = new BufferedReader(new FileReader(${input$var}));
+		BufferedReader bufferedReader = new BufferedReader(new FileReader(${field$var}));
 		StringBuilder jsonstringbuilder = new StringBuilder();
 		String line;
 		while((line = bufferedReader.readLine()) != null) {

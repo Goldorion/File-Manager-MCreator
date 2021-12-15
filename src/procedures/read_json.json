@@ -1,9 +1,8 @@
 {
   "args0": [
     {
-      "type": "input_value",
-      "name": "var",
-      "check": "File"
+      "type": "input_dummy",
+      "name": "var"
     },
     {
       "type": "input_statement",
@@ -14,6 +13,10 @@
       "name": "jVar"
     }
   ],
+  "extensions": [
+    "file_variables"
+  ],
+  "mutator": "variable_entity_input",
   "inputsInline": true,
   "previousStatement": null,
   "nextStatement": null,
@@ -26,10 +29,8 @@
       }
     ],
     "fields": [
+      "var",
       "jVar"
-    ],
-    "inputs": [
-      "var"
     ]
   }
 }

@@ -1,1 +1,1 @@
-${input$var}.getName()
+${field$var}.getName()

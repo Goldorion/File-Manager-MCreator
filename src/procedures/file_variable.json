@@ -1,9 +1,8 @@
 {
   "args0": [
     {
-      "type": "input_value",
-      "name": "file",
-      "check": "File"
+      "type": "input_dummy",
+      "name": "var"
     },
     {
       "type": "input_value",
@@ -21,6 +20,10 @@
       "checked": false
     }
   ],
+  "extensions": [
+    "file_variables"
+  ],
+  "mutator": "variable_entity_input",
   "inputsInline": true,
   "previousStatement": null,
   "nextStatement": null,
@@ -32,10 +35,10 @@
       "<value name=\"location\"><block type=\"text\"><field name=\"TEXT\">location</field></block></value>"
     ],
     "fields": [
+      "var",
 	  "isDirectory"
     ],
     "inputs": [
-      "file",
       "name",
       "location"
     ]

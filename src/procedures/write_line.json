@@ -6,9 +6,8 @@
       "check": "String"
     },
     {
-      "type": "input_value",
-      "name": "var",
-      "check": "File"
+      "type": "input_dummy",
+      "name": "var"
     },
     {
       "type": "field_checkbox",
@@ -16,6 +15,10 @@
       "checked": false
     }
   ],
+  "extensions": [
+    "file_variables"
+  ],
+  "mutator": "variable_entity_input",
   "inputsInline": true,
   "previousStatement": null,
   "nextStatement": null,
@@ -26,10 +29,10 @@
       "<value name=\"text\"><block type=\"text\"><field name=\"TEXT\">text</field></block></value>"
     ],
     "fields": [
+      "var",
       "newLine"
     ],
     "inputs": [
-      "var",
       "text"
     ]
   }

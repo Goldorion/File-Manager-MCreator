@@ -1,6 +1,6 @@
 {
-	${input$var}bw.write(${input$text});
+	${field$var}bw.write(${input$text});
 	<#if field$newLine?lower_case == "true">
-	    ${input$var}bw.newLine();
+	    ${field$var}bw.newLine();
 	</#if>
 }

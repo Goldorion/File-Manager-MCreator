@@ -1,11 +1,11 @@
 try {
-  FileWriter ${input$var}writer = new FileWriter(${input$var});
-  BufferedWriter ${input$var}bw = new BufferedWriter(${input$var}writer);
+  FileWriter ${field$var}writer = new FileWriter(${field$var});
+  BufferedWriter ${field$var}bw = new BufferedWriter(${field$var}writer);
   
   ${statement$text}
 
-  ${input$var}bw.close();
-  ${input$var}writer.close();
+  ${field$var}bw.close();
+  ${field$var}writer.close();
 } catch (IOException exception) {
   exception.printStackTrace();
 }

@@ -1,10 +1,10 @@
 try {
-	BufferedReader ${input$var}Reader = new BufferedReader(new FileReader(${input$var}));
+	BufferedReader ${field$var}Reader = new BufferedReader(new FileReader(${field$var}));
 	String stringiterator = "";
-	while((stringiterator = ${input$var}Reader.readLine()) != null) {
+	while((stringiterator = ${field$var}Reader.readLine()) != null) {
 		${statement$foreach}
 	}
-	${input$var}Reader.close();
+	${field$var}Reader.close();
 } catch (IOException e) {
     e.printStackTrace();
 }
