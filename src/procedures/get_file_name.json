@@ -13,8 +13,8 @@
   "colour": "%{BKY_TEXTS_HUE}",
   "mcreator": {
     "toolbox_id": "file_manager",
-    "inputs": [
-      "var"
+    "fields": [
+      "VAR"
     ]
   }
 }

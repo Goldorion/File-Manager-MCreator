@@ -5,7 +5,7 @@
 	${statement$json}
 
 	try {
-  		FileWriter fileWriter = new FileWriter(${field$var});
+  		FileWriter fileWriter = new FileWriter(${field$VAR?replace("local:", "")?replace("global:", "")});
   		fileWriter.write(mainGSONBuilderVariable.toJson(${field$jvar}));
   		fileWriter.close();
 	} catch (IOException exception) {

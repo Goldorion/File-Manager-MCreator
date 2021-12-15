@@ -13,20 +13,14 @@
       "type": "input_value",
       "name": "location",
       "check": "String"
-    },
-    {
-      "type": "field_checkbox",
-      "name": "isDirectory",
-      "checked": false
     }
   ],
   "extensions": [
     "file_variables"
   ],
   "mutator": "variable_entity_input",
+  "output": "File",
   "inputsInline": true,
-  "previousStatement": null,
-  "nextStatement": null,
   "colour": 270,
   "mcreator": {
     "toolbox_id": "file_manager",
@@ -35,8 +29,7 @@
       "<value name=\"location\"><block type=\"text\"><field name=\"TEXT\">location</field></block></value>"
     ],
     "fields": [
-      "var",
-	  "isDirectory"
+      "VAR"
     ],
     "inputs": [
       "name",

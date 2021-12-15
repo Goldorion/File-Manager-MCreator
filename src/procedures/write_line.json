@@ -29,7 +29,7 @@
       "<value name=\"text\"><block type=\"text\"><field name=\"TEXT\">text</field></block></value>"
     ],
     "fields": [
-      "var",
+      "VAR",
       "newLine"
     ],
     "inputs": [

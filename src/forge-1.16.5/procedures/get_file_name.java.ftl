@@ -1,1 +1,1 @@
-${field$var}.getName()
+${field$VAR?replace("local:", "")?replace("global:", "")}.getName()

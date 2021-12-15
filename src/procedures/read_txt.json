@@ -28,7 +28,7 @@
       "<value name=\"_placeholder\"><block deletable=\"false\" movable=\"false\" enabled=\"false\" type=\"string_iterator\"></block></value>"
     ],
     "fields": [
-      "var"
+      "VAR"
     ],
     "statements": [
       {

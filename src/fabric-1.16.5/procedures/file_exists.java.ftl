@@ -1,1 +1,1 @@
-${field$var}.exists()
+${field$VAR?replace("local:", "")?replace("global:", "")}.exists()

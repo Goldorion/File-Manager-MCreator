@@ -1,10 +1,10 @@
 try {
-	BufferedReader ${field$var}Reader = new BufferedReader(new FileReader(${field$var}));
+	BufferedReader ${field$VAR?replace("local:", "")?replace("global:", "")}Reader = new BufferedReader(new FileReader(${field$VAR?replace("local:", "")?replace("global:", "")}));
 	String stringiterator = "";
-	while((stringiterator = ${field$var}Reader.readLine()) != null) {
+	while((stringiterator = ${field$VAR?replace("local:", "")?replace("global:", "")}Reader.readLine()) != null) {
 		${statement$foreach}
 	}
-	${field$var}Reader.close();
+	${field$VAR?replace("local:", "")?replace("global:", "")}Reader.close();
 } catch (IOException e) {
     e.printStackTrace();
 }

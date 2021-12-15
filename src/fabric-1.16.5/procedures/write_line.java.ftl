@@ -1,6 +1,6 @@
 {
-	${field$var}bw.write(${input$text});
+	${field$VAR?replace("local:", "")?replace("global:", "")}bw.write(${input$text});
 	<#if field$newLine?lower_case == "true">
-	    ${field$var}bw.newLine();
+	    ${field$VAR?replace("local:", "")?replace("global:", "")}bw.newLine();
 	</#if>
 }

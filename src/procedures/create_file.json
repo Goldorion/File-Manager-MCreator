@@ -3,14 +3,6 @@
     {
       "type": "input_dummy",
       "name": "var"
-    },
-    {
-      "type": "input_statement",
-      "name": "json"
-    },
-    {
-      "type": "field_input",
-      "name": "jvar"
     }
   ],
   "extensions": [
@@ -23,14 +15,8 @@
   "colour": 270,
   "mcreator": {
     "toolbox_id": "file_manager",
-    "statements": [
-      {
-        "name": "json"
-      }
-    ],
     "fields": [
-      "VAR",
-      "jvar"
+      "VAR"
     ]
   }
 }

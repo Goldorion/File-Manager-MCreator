@@ -1,6 +1,9 @@
-## 4.1
+## 5.0
 * Removed support for Forge 1.15.2
 * Added support for Forge 1.17.1
+* Procedure blocks requiring a file variable now use a normal variable list
+* Create file block has been changed for a block giving values to the setter block variable
+* Add a new create file procedure block
 
 ## 4.0.2
 * [Bugfix #16] Write txt file and Write line procedure blocks didn't generate their code

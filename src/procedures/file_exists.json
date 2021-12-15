@@ -15,7 +15,7 @@
   "mcreator": {
     "toolbox_id": "file_manager",
     "fields": [
-      "var"
+      "VAR"
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
 	try {
-		BufferedReader bufferedReader = new BufferedReader(new FileReader(${field$var}));
+		BufferedReader bufferedReader = new BufferedReader(new FileReader(${field$VAR?replace("local:", "")?replace("global:", "")}));
 		StringBuilder jsonstringbuilder = new StringBuilder();
 		String line;
 		while((line = bufferedReader.readLine()) != null) {
