@@ -5,17 +5,14 @@ An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to creat
 This project is not official. It is not affiliated with the respective owners and maintainers of Minecraft, or MCreator. Do not expect any official support from their communities.
 
 ## Features
-TXT Files:
-![](https://i.imgur.com/0v2PSEZ.png)
-In this example, each time a block is broken a new file named `file.txt` will be created at the current game's directory. Then, the procedure will read this same file and send a message to the player each line of the file.
-JSON Files:
-![](https://i.imgur.com/Oxrp570.png)
-This image shows an example of a small JSON file containing another JSON object with values and a value. The first (main) JSON object (shown by the "Write following values as a JSON file" block) contains everything the JSON file will have. Then, the sub JSON object will be created containing normal values. When the JSON object has been added into the file, the procedure will get the field named `number` into the JSON object `subgson` shown here by `gson,subgson`. To get a sub JSON object. you have to write every JSON objects in the order of the procedure and separte them with a comma (**No space**).
+* JSON
+* TXT/Basic reader/writer
 
 ## Important Information
-* This plugin supports Forge 1.15.2, Forge 1.16.5 and Fabric 1.16.5
-* * Version 3.1: You need to be on the full release of the 2021.1.
-  * Version 4.0: You need to use MCreator EAP 2021.2.26215. 
+* Version 4.0: You need to use MCreator EAP 2021.2.26215. 
+* * This version supports Forge 1.15.2, Forge 1.16.5 and Fabric 1.16.5
+* Version 5.0: You need to use MCreator 2021.3.51219.
+* * This version supports Forge 1.16.5, Forge 1.17.1 and Fabric 1.16.5
 
 ## Downloads/Install Instructions
 Downloads can be found on the [Release page of this repo](https://github.com/Goldorion/File-Manager-MCreator/releases).
