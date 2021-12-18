@@ -1,3 +1,6 @@
+## 5.0.1
+* [Bugfix #22] Getter used for the File setter could not be used with Forge and Fabric 1.16.5
+
 ## 5.0
 Note: This version breaks workspaces using a previous update.
 * Updated to MCreator 2021.3.51219
