@@ -1,0 +1,19 @@
+name: Feature request
+description: Create a report to suggest an idea (search for duplicates first)
+labels: new feature
+body:
+ - type: textarea
+   attributes:
+    label: Feature description
+    description: Explain clearly and unambiguously what is your idea
+    placeholder: Tell us here about your idea. 
+   validations:
+    required: true
+ - type: checkboxes
+   attributes:
+    label: Issue tracker rule checks (please read carefully)
+    options:
+     - label: "I have checked that my feature request <a href='https://github.com/Goldorion/File-Manager-MCreator/issues?q=is%3Aissue' target='_blank'>is not already suggested</a>"
+       required: true
+     - label: "I have checked that my written content does not violate the <a href='https://mcreator.net/wiki/general-publishing-guidelines' target='_blank'>publishing guidelines</a>"
+       required: true
