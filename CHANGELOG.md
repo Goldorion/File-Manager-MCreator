@@ -3,6 +3,7 @@
   * Note: It can be used to download online files.
 * Removed some old tool tips
 * Added French translations
+* [Repository] Added Crowdin support for the externalization (Read #24)
 
 ## 5.0.1
 * [Bugfix #22] Getter used for the File setter could not be used with Forge and Fabric 1.16.5
