@@ -1,7 +1,7 @@
 ## 5.1
-* Added a new copy URl to file procedure block
+* Added a new copy URL to file procedure block
   * Note: It can be used to download online files.
-* Removed some old tool tips
+* Removed some old tooltips
 * Added French translations
 * [Repository] Added Crowdin support for the externalization (Read #24)
 

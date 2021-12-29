@@ -5,7 +5,7 @@ An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to creat
 * JSON
 * TXT - Basic reader/writer
 
-The 2 following examples require File Manager 5.0.
+The 2 following examples require File Manager 5.0 or newer.
 ### Create a JSON file
 ![](https://i.imgur.com/7yjhy7f.png)
 
@@ -13,7 +13,7 @@ The 2 following examples require File Manager 5.0.
 ![](https://i.imgur.com/sqO3Y56.png)
 
 ## Important Information
-* You need to use MCreator 2021.3.51219
+* You need to use MCreator 2021.3.51219 or a newer version
 * This version supports Forge 1.16.5, Forge 1.17.1 and Fabric 1.16.5
 
 ## Downloads/Install Instructions
