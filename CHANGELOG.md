@@ -1,3 +1,7 @@
+## 5.2
+* Added support for Fabric 1.17.1 and Forge 1.18.2
+* Removed support for Fabric 1.16.5
+
 ## 5.1
 * Added a new copy URL to file procedure block
   * Note: It can be used to download online files.

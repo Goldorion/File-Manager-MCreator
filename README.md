@@ -14,7 +14,7 @@ The 2 following examples require File Manager 5.0 or newer.
 
 ## Important Information
 * You need to use MCreator 2021.3.51219 or a newer version
-* This version supports Forge 1.16.5, Forge 1.17.1 and Fabric 1.16.5
+* This version supports Forge 1.16.5, Forge 1.17.1, Forge 1.18.2 and Fabric 1.17.1
 
 ## Downloads/Install Instructions
 Downloads can be found on the [Release page of this repo](https://github.com/Goldorion/File-Manager-MCreator/releases).
