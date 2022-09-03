@@ -1,5 +1,9 @@
+## 5.4
+* Added support for Fabric 1.19.2
+* Removed support for Fabric & Forge 1.17.1 and Fabric 1.19.1
+
 ## 5.3
-* Added support for Fabric 1.19.1
+* Added support for Fabric 1.19.2
 
 ## 5.2
 * Added support for Fabric 1.17.1 and Forge 1.18.2

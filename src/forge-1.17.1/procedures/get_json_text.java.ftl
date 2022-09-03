@@ -1,1 +1,0 @@
-${field$VAR?replace("local:", "")?replace("global:", "")}.get(${input$name}).getAsString()
