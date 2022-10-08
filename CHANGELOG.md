@@ -1,3 +1,9 @@
+# Changelog
+
+## 5.4.1
+* Removed support for Fabric 1.17.1
+* Added support for Forge 1.19.2
+
 ## 5.4
 * Added support for Fabric 1.19.2
 * Removed support for Fabric & Forge 1.17.1 and Fabric 1.19.1

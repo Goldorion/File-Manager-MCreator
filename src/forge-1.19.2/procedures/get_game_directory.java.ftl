@@ -1,0 +1,1 @@
+FMLPaths.GAMEDIR.get().toString()
