@@ -1,6 +1,7 @@
 # Changelog
 
 ## 5.5
+* Forge 1.16.5 is still included, but it does not receive new features.
 * Added a new Direction to number getter block
 
 ## 5.4.1
