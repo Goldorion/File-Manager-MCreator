@@ -1,0 +1,20 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "number",
+      "check": "Number"
+    }
+  ],
+  "output": "Direction",
+  "colour": 20,
+  "mcreator": {
+    "toolbox_id": "file_manager",
+    "toolbox_init": [
+      "<value name=\"number\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>"
+    ],
+    "inputs": [
+      "number"
+    ]
+  }
+}
