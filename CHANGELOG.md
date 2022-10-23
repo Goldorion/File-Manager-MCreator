@@ -1,5 +1,8 @@
 # Changelog
 
+## 5.5
+* Added a new Direction to number getter block
+
 ## 5.4.1
 * Removed support for Fabric 1.17.1
 * Added support for Forge 1.19.2

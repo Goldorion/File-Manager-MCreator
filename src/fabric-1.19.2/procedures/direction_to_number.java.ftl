@@ -1,0 +1,1 @@
+${input$direction}.get3DDataValue()
