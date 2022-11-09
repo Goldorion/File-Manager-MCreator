@@ -1,0 +1,20 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "blockstate",
+      "check": "MCItemBlock"
+    }
+  ],
+  "output": "String",
+  "colour": "%{BKY_TEXTS_HUE}",
+  "mcreator": {
+    "toolbox_id": "file_manager",
+    "toolbox_init": [
+      "<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\"></field></block></value>"
+    ],
+    "inputs": [
+      "blockstate"
+    ]
+  }
+}

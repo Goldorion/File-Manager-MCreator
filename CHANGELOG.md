@@ -2,7 +2,8 @@
 
 ## 5.5
 * Forge 1.16.5 is still included, but it does not receive new features.
-* Added a new Direction to number getter block
+* Added Direction to number and Number to Direction getter blocks
+* Added BlockState to String and String to BlockState getter blocks
 
 ## 5.4.1
 * Removed support for Fabric 1.17.1
