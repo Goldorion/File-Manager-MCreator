@@ -1,0 +1,1 @@
+new Gson().fromJson(${input$json}, com.google.gson.JsonObject.class)

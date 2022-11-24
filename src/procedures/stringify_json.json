@@ -1,0 +1,20 @@
+{
+  "args0": [
+    {
+      "type": "input_dummy",
+      "name": "jobjvar"
+    }
+  ],
+  "extensions": [
+    "custom_jsonobject_variables"
+  ],
+  "inputsInline": true,
+  "output": "String",
+  "colour": "%{BKY_TEXTS_HUE}",
+  "mcreator": {
+    "toolbox_id": "file_manager",
+    "fields": [
+      "JOBJVAR"
+    ]
+  }
+}
