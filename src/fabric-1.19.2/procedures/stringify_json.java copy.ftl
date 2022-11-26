@@ -1,1 +1,0 @@
-${field$JOBJVAR?replace("local:", "")?replace("global:", "")}.toString()
