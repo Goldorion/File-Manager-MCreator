@@ -1,0 +1,1 @@
+((${field$VAR?replace("local:", "")?replace("global:", "")}.get(${input$name}) != null) ? true : false)
