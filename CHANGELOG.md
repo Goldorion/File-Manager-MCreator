@@ -1,5 +1,8 @@
 # Changelog
 
+## 5.6
+* [#30] Added Does JSON property exists, Parse JSON and Stringify JSON procedure blocks (ddemile)
+
 ## 5.5
 * Forge 1.16.5 is still included, but it does not receive new features.
 * Added Direction to number and Number to Direction getter blocks
