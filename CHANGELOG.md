@@ -1,5 +1,8 @@
 # Changelog
 
+## 5.6.1
+* [Bugfix] Procedure blocks could not be taken from the category in the latest 2023.1 snapshot
+
 ## 5.6
 * [#30] Added Does JSON property exists, Parse JSON and Stringify JSON procedure blocks (ddemile)
 * [#31] Added Copy file to location and Move file to location blocks
