@@ -1,6 +1,9 @@
 # Changelog
 
 ## 5.6.1
+* Updated to MCreator 2023.1.04717
+* [#34] Added Chinese translation (Grey-Wind)
+* Added missing French translations
 * [Bugfix] Procedure blocks could not be taken from the category in the latest 2023.1 snapshot
 
 ## 5.6
