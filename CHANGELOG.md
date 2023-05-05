@@ -1,5 +1,9 @@
 # Changelog
 
+## 5.6.2
+* Added 1.19.4 support
+* Removed 1.16.5 support
+
 ## 5.6.1
 * Updated to MCreator 2023.1.04717
 * [#34] Added Chinese translation (Grey-Wind)
