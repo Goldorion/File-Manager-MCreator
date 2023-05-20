@@ -1,1 +1,1 @@
-(${field$VAR?replace("local:", "")?replace("global:", "")}.get(${input$name}) != null)
+${field$VAR?replace("local:", "")?replace("global:", "")}.has(${input$name})

@@ -1,5 +1,9 @@
 # Changelog
 
+## 5.6.3
+* [#38] Added a Get JSOn size block
+* Added Is JSON object empty block
+
 ## 5.6.2
 * Added 1.19.4 support
 * Removed 1.16.5 support
