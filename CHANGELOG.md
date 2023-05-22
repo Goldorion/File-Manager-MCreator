@@ -1,7 +1,7 @@
 # Changelog
 
 ## 5.6.3
-* [#38] Added a Get JSOn size block
+* [#38] Added a Get JSON size block
 * Added Is JSON object empty block
 
 ## 5.6.2

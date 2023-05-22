@@ -1,0 +1,4 @@
+files:
+  - source: /src/lang/texts.properties
+    translation: /src/lang/texts_%locale_with_underscore%.properties
+    escape_quotes: 1
