@@ -13,6 +13,7 @@
   "output": "Number",
   "colour": "%{BKY_MATH_HUE}",
   "mcreator": {
+    "group": "json",
     "toolbox_id": "file_manager",
     "fields": [
       "VAR"

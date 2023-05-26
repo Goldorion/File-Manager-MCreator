@@ -2,6 +2,8 @@
 
 ## 5.7
 * Added new ZIP related procedure blocks: ZIP a single file, ZIP multiple files from a list (Require ArrayLists), ZIP a folder and Unzip a file
+* Procedure blocks are now grouped depending on their usage
+  * Note: This only work if "Smart sorting" is enabled in the preferences
 * [Bugfix] Add a new line for TXT files didn't work
 
 ## 5.6.3

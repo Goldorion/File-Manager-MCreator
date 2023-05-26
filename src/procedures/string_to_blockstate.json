@@ -9,6 +9,7 @@
   "output": "MCItemBlock",
   "colour": 60,
   "mcreator": {
+    "group": "util",
     "toolbox_id": "file_manager",
     "toolbox_init": [
       "<value name=\"string\"><block type=\"text\"><field name=\"TEXT\">Blockstate NBT String</field></block></value>"

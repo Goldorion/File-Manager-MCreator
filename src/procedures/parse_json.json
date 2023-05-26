@@ -10,6 +10,7 @@
   "output": "JsonObject",
   "colour": "#5B3B77",
   "mcreator": {
+    "group": "json",
     "toolbox_id": "file_manager",
     "toolbox_init": [
       "<value name=\"json\"><block type=\"text\"><field name=\"TEXT\">{}</field></block></value>"

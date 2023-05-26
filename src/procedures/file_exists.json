@@ -13,6 +13,7 @@
   "output": "Boolean",
   "colour": "%{BKY_LOGIC_HUE}",
   "mcreator": {
+    "group": "file",
     "toolbox_id": "file_manager",
     "fields": [
       "VAR"

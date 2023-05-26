@@ -29,6 +29,7 @@
   "nextStatement": null,
   "colour": 270,
   "mcreator": {
+    "group": "file",
     "toolbox_id": "file_manager",
     "toolbox_init": [
       "<value name=\"url\"><block type=\"text\"><field name=\"TEXT\">https://example.com/file.txt</field></block></value>",
