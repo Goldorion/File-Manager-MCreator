@@ -5,7 +5,7 @@
     "name": "File Manager",
     "description": "Create and read your files",
     "author": "Goldorion",
-    "version": "5.6.3",
+    "version": "5.7",
     "updateJSONURL": "https://raw.githubusercontent.com/Goldorion/File-Manager-MCreator/master/update.json",
     "pluginPageID": 64638
   }

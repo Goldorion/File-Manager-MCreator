@@ -4,6 +4,7 @@ An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to creat
 ## Features
 * JSON
 * TXT - Basic reader/writer
+* ZIP (5.7+)
 
 The 2 following examples require File Manager 5.0 or newer.
 ### Create a JSON file
