@@ -14,7 +14,7 @@
   "colour": "%{BKY_LOGIC_HUE}",
   "mcreator": {
     "group": "json",
-    "toolbox_id": "file_manager",
+    "toolbox_id": "file_manager_data",
     "fields": [
       "VAR"
     ]

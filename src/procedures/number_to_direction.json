@@ -10,7 +10,7 @@
   "colour": 20,
   "mcreator": {
     "group": "util",
-    "toolbox_id": "file_manager",
+    "toolbox_id": "file_manager_utils",
     "toolbox_init": [
       "<value name=\"number\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>"
     ],

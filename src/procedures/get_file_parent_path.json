@@ -13,7 +13,7 @@
   "colour": "%{BKY_TEXTS_HUE}",
   "mcreator": {
     "group": "file",
-    "toolbox_id": "file_manager",
+    "toolbox_id": "file_manager_data",
     "fields": [
       "VAR"
     ]

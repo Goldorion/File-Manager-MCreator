@@ -10,7 +10,7 @@
   "colour": "%{BKY_TEXTS_HUE}",
   "mcreator": {
     "group": "util",
-    "toolbox_id": "file_manager",
+    "toolbox_id": "file_manager_utils",
     "toolbox_init": [
       "<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\"></field></block></value>"
     ],

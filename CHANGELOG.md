@@ -5,8 +5,10 @@
 * Procedure blocks are now grouped depending on their usage
   * Note: This only work if "Smart sorting" is enabled in the preferences
 * Added new general file procedure blocks: Get file parent's path, Get file's path, Get temp directory, Is directory and Is file
+* Added 2 new categories: File Manager data and File Manager utils
 * [#32] Added a "Get current world's name" procedure block (Forge only)
 * [Bugfix] Add a new line for TXT files didn't work
+* [Bugfix] Path separator block wasn't inside a category
 
 ## 5.6.3
 * [#38] Added a Get JSON size block

@@ -18,7 +18,7 @@
   "colour": "%{BKY_LOGIC_HUE}",
   "mcreator": {
     "group": "json",
-    "toolbox_id": "file_manager",
+    "toolbox_id": "file_manager_data",
     "toolbox_init": [
     "<value name=\"name\"><block type=\"text\"><field name=\"TEXT\">name</field></block></value>"
     ],

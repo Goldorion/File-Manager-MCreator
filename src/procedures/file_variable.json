@@ -24,7 +24,7 @@
   "colour": 270,
   "mcreator": {
     "group": "file",
-    "toolbox_id": "file_manager",
+    "toolbox_id": "file_manager_data",
     "toolbox_init": [
       "<value name=\"name\"><block type=\"text\"><field name=\"TEXT\">name.extension</field></block></value>",
       "<value name=\"location\"><block type=\"text\"><field name=\"TEXT\">location</field></block></value>"

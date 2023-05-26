@@ -3,6 +3,6 @@
   "colour": "%{BKY_TEXTS_HUE}",
   "mcreator": {
     "group": "util",
-    "toolbox_id": "file-manager"
+    "toolbox_id": "file_manager_utils"
   }
 }
