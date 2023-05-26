@@ -1,5 +1,8 @@
 # Changelog
 
+## 5.7
+* [Bugfix] Add a new line for TXT files didn't work
+
 ## 5.6.3
 * [#38] Added a Get JSON size block
 * Added Is JSON object empty block
