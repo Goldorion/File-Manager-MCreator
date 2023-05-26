@@ -4,6 +4,7 @@
 * Added new ZIP related procedure blocks: ZIP a single file, ZIP multiple files from a list (Require ArrayLists), ZIP a folder and Unzip a file
 * Procedure blocks are now grouped depending on their usage
   * Note: This only work if "Smart sorting" is enabled in the preferences
+* Added new general file procedure blocks: Get file parent's path, Get file's path, Get temp directory, Is directory and Is file
 * [#32] Added a "Get current world's name" procedure block (Forge only)
 * [Bugfix] Add a new line for TXT files didn't work
 

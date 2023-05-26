@@ -1,0 +1,22 @@
+{
+  "args0": [
+    {
+      "type": "input_dummy",
+      "name": "var"
+    }
+  ],
+  "extensions": [
+    "file_variables"
+  ],
+  "mutator": "variable_entity_input",
+  "inputsInline": true,
+  "output": "Boolean",
+  "colour": "%{BKY_LOGIC_HUE}",
+  "mcreator": {
+    "group": "file",
+    "toolbox_id": "file_manager",
+    "fields": [
+      "VAR"
+    ]
+  }
+}
