@@ -1,6 +1,7 @@
 # Changelog
 
 ## 5.7
+* Added new ZIP related procedure blocks: ZIP a single file, ZIP multiple files from a list (Require ArrayLists), ZIP a folder and Unzip a file
 * [Bugfix] Add a new line for TXT files didn't work
 
 ## 5.6.3

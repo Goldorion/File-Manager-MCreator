@@ -1,0 +1,28 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "list",
+      "check": "List"
+    },
+    {
+      "type": "input_value",
+      "name": "toLocation",
+      "check": "String"
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 270,
+  "mcreator": {
+    "toolbox_id": "file_manager",
+    "toolbox_init": [
+      "<value name=\"toLocation\"><block type=\"text\"><field name=\"TEXT\">full/location/name.extension</field></block></value>"
+    ],
+    "inputs": [
+      "list",
+      "toLocation"
+    ]
+  }
+}

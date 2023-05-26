@@ -1,0 +1,33 @@
+{
+  "args0": [
+    {
+      "type": "input_dummy",
+      "name": "var"
+    },
+    {
+      "type": "input_value",
+      "name": "toLocation",
+      "check": "String"
+    }
+  ],
+  "extensions": [
+    "file_variables"
+  ],
+  "mutator": "variable_entity_input",
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 270,
+  "mcreator": {
+    "toolbox_id": "file_manager",
+    "toolbox_init": [
+      "<value name=\"toLocation\"><block type=\"text\"><field name=\"TEXT\">full/location/name.extension</field></block></value>"
+    ],
+    "inputs": [
+      "toLocation"
+    ],
+    "fields": [
+      "VAR"
+    ]
+  }
+}
