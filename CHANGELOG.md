@@ -1,5 +1,8 @@
 # Changelog
 
+## 5.7.2
+* Changed Fabric 1.20 support to Fabric 1.20.1
+
 ## 5.7.1
 * Added support for Fabric 1.20
 * [Bugfix] Using Get temp dire procedure block caused a non-existant error
