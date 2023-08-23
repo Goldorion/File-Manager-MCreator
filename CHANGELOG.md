@@ -1,5 +1,8 @@
 # Changelog
 
+## 5.7.3
+* Added Forge 1.20.1 support
+
 ## 5.7.2
 * Changed Fabric 1.20 support to Fabric 1.20.1
 
