@@ -1,0 +1,1 @@
+(world.isClientSide() ? Minecraft.getInstance().getSingleplayerServer().getWorldPath(LevelResource.ROOT).toString() : ServerLifecycleHooks.getCurrentServer().getWorldPath(LevelResource.ROOT).toString())
