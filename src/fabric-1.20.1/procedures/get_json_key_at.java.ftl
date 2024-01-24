@@ -1,5 +1,6 @@
 (new Object(){
-    public String getKeyByIndex(JsonObject jsonObject, int index){
+    public String getKeyByIndex(JsonObject jsonObject, double _index){
+        int index=(int)_index;
         Set<Map.Entry<String, JsonElement>> entries = jsonObject.entrySet();
         if (index >= 0 && index < entries.size()) {
             int currentIndex = 0;
