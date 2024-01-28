@@ -1,6 +1,7 @@
 {
   "id": "file-manager",
-  "minversion": 202300104717,
+  "minversion": 202300400000,
+  "maxversion": 202300499999,
   "info": {
     "name": "File Manager",
     "description": "Create and read your files",
