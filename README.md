@@ -14,8 +14,8 @@ The 2 following examples require File Manager 5.0 or newer.
 ![](https://i.imgur.com/sqO3Y56.png)
 
 ## Important Information
-* You need to use MCreator 2021.3.51219 or a newer version
-* This version supports Forge 1.18.2, 1.19.2, 1.19.4 and Forge 1.20.1 and Fabric 1.19.2 and 1.20.1
+* You need to use MCreator 2023.4.44716 or a newer version
+* This version supports Forge 1.19.4 and Forge 1.20.1 and Fabric 1.20.1
 
 ## Downloads/Install Instructions
 Downloads can be found on the [Release page of this repo](https://github.com/Goldorion/File-Manager-MCreator/releases).
@@ -27,7 +27,7 @@ Install like any other plugin: Launch MCreator -> Open preferences -> Manage plu
 Dev - Goldorion
 
 Thanks to NorthWestTrees for his feedback.
-Thanks to anyone who reports a bug, suggests a feature, makes a tutorial or simply uses it.
+Thanks to everyone reporting bugs, suggesting features, making tutorials and just using it ❤️
 
 Licensed under the GNU Lesser General Public License, version 2.1  
 * Appropriate credit must be provided to the creators and maintainers of this software.

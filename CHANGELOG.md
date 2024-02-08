@@ -1,6 +1,6 @@
 # Changelog
 
-## Next update
+## 5.8
 * Removed support for Forge 1.18.2, 1.19.2
 * Removed support for Fabric 1.19.2
 * Re-organized File Manager's categories to use the new parent/children category system
