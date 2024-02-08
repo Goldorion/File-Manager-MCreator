@@ -7,6 +7,7 @@
 * [#54] Add Get client's directory
 * [#58] Add Get JSON property name at index
 * [Bugfix #50] Is JSON object empty caused a build error
+* [Bugfix #52] Copy url to file didn't work correctly
 
 ## 5.7.3
 * Added Forge 1.20.1 support
