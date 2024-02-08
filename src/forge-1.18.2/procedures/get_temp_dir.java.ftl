@@ -1,1 +1,0 @@
-System.getProperty("java.io.tmpdir")

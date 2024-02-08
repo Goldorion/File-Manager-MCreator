@@ -1,6 +1,8 @@
 # Changelog
 
 ## Next update
+* Removed support for Forge 1.18.2, 1.19.2
+* Removed support for Fabric 1.19.2
 * [Bugfix #50] Is JSON object empty caused a build error
 
 ## 5.7.3
