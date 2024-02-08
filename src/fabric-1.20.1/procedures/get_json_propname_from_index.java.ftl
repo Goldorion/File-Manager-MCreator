@@ -1,0 +1,1 @@
+${field$VAR?replace("local:", "")?replace("global:", "")}.keySet().stream().toList().get(${input$index})

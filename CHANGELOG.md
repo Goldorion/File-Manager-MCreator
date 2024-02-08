@@ -4,6 +4,7 @@
 * Removed support for Forge 1.18.2, 1.19.2
 * Removed support for Fabric 1.19.2
 * [#54] Add Get client's directory procedure block
+* [#58] Add Get JSON property name at index procedure block
 * [Bugfix #50] Is JSON object empty caused a build error
 
 ## 5.7.3
