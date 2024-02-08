@@ -1,1 +1,1 @@
-${field$VAR?replace("local:", "")?replace("global:", "")}.isEmpty()
+(${field$VAR?replace("local:", "")?replace("global:", "")}.size() == 0)
