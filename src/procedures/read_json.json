@@ -24,7 +24,7 @@
   "colour": 270,
   "mcreator": {
     "group": "json",
-    "toolbox_id": "file_manager",
+    "toolbox_id": "file_manager_actions",
     "statements": [
       {
         "name": "values"

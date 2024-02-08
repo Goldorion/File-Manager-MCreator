@@ -19,7 +19,7 @@
   "colour": 270,
   "mcreator": {
     "group": "txt",
-    "toolbox_id": "file_manager",
+    "toolbox_id": "file_manager_actions",
     "statements": [
       {
         "name": "text"

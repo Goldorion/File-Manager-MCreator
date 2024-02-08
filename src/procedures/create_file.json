@@ -15,7 +15,7 @@
   "colour": 270,
   "mcreator": {
     "group": "file",
-    "toolbox_id": "file_manager",
+    "toolbox_id": "file_manager_actions",
     "fields": [
       "VAR"
     ]

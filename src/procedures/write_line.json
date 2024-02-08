@@ -25,7 +25,7 @@
   "colour": 270,
   "mcreator": {
     "group": "txt",
-    "toolbox_id": "file_manager",
+    "toolbox_id": "file_manager_actions",
     "toolbox_init": [
       "<value name=\"text\"><block type=\"text\"><field name=\"TEXT\">text</field></block></value>",
       "<value name=\"newLine\"><block type=\"logic_boolean\"><field name=\"BOOL\">FALSE</field></block></value>"

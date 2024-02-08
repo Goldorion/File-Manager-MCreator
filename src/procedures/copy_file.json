@@ -20,7 +20,7 @@
   "colour": 270,
   "mcreator": {
     "group": "file",
-    "toolbox_id": "file_manager",
+    "toolbox_id": "file_manager_actions",
     "toolbox_init": [
       "<value name=\"toLocation\"><block type=\"text\"><field name=\"TEXT\">location</field></block></value>"
     ],

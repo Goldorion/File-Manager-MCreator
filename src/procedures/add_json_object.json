@@ -25,7 +25,7 @@
   "colour": "#5B3B77",
   "mcreator": {
     "group": "json",
-    "toolbox_id": "file_manager",
+    "toolbox_id": "file_manager_actions",
     "toolbox_init": [
     "<value name=\"name\"><block type=\"text\"><field name=\"TEXT\">name</field></block></value>"
     ],

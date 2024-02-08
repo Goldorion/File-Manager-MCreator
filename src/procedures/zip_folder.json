@@ -20,7 +20,7 @@
   "colour": "#6E6075",
   "mcreator": {
     "group": "zip",
-    "toolbox_id": "file_manager",
+    "toolbox_id": "file_manager_actions",
     "toolbox_init": [
       "<value name=\"toLocation\"><block type=\"text\"><field name=\"TEXT\">full/location/name.extension</field></block></value>"
     ],

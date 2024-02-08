@@ -30,7 +30,7 @@
   "colour": 270,
   "mcreator": {
     "group": "file",
-    "toolbox_id": "file_manager",
+    "toolbox_id": "file_manager_actions",
     "toolbox_init": [
       "<value name=\"url\"><block type=\"text\"><field name=\"TEXT\">https://example.com/file.txt</field></block></value>",
       "<value name=\"connectionTimeout\"><block type=\"math_number\"><field name=\"NUM\">4000</field></block></value>",

@@ -3,6 +3,7 @@
 ## Next update
 * Removed support for Forge 1.18.2, 1.19.2
 * Removed support for Fabric 1.19.2
+* Re-organized File Manager's categories to use the new parent/children category system
 * [#51] Add a Remove JSON property
 * [#54] Add Get client's directory
 * [#58] Add Get JSON property name at index
