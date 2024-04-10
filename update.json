@@ -1,15 +1,8 @@
 {
   "file-manager": {
-    "latest": "5.8",
+    "latest": "5.9",
     "changes": [
-      "Removed support for Forge 1.18.2, 1.19.2",
-      "Removed support for Fabric 1.19.2",
-      "Re-organized File Manager's categories to use the new parent/children category system",
-      "[#51] Add a Remove JSON property",
-      "[#54] Add Get client's directory",
-      "[#58] Add Get JSON property name at index",
-      "[Bugfix #50] Is JSON object empty caused a build error",
-      "[Bugfix #52] Copy url to file didn't work correctly"
+      "MCreator 2024.1.15713 support"
     ]
   }
 }
