@@ -1,5 +1,9 @@
 # Changelog
 
+# 5.9
+* Updated to MCreator 2024.1.15713
+* Added support for NeoForge 1.20.4
+
 ## 5.8
 * Removed support for Forge 1.18.2, 1.19.2
 * Removed support for Fabric 1.19.2

@@ -49,7 +49,7 @@ task runMCreator {
             try {
                 exec {
                     workingDir Globals.MCREATOR_ROOT_FOLDER_WINDOWS
-                    commandLine 'cmd', '/c', 'mcreator.bat'
+                    commandLine 'cmd', '/c', 'mcreator.exe'
                 }
             } catch (IOException e) {
                 //noinspection GroovyAssignabilityCheck
