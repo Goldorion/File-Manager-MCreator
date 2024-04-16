@@ -1,11 +1,11 @@
 {
   "id": "file-manager",
-  "supportedversions": [202400115713],
+  "supportedversions": [202400115713, 202400115821],
   "info": {
     "name": "File Manager",
     "description": "Create and read your files",
     "author": "Goldorion",
-    "version": "5.9",
+    "version": "5.9.1",
     "updateJSONURL": "https://raw.githubusercontent.com/Goldorion/File-Manager-MCreator/master/update.json",
     "pluginPageID": 64638
   }

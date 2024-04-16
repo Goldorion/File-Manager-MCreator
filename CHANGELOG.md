@@ -1,5 +1,8 @@
 # Changelog
 
+# 5.9.1
+* [Bugfix #61] Some procedure blocks could cause build errors due to a missing import
+
 # 5.9
 * Updated to MCreator 2024.1.15713
 * Added support for NeoForge 1.20.4
