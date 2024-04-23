@@ -2,6 +2,7 @@
 
 # 5.10
 * [#48] Add a new parameter to write lines at the end of TXT files
+  * Note: Existing workspaces will get a build error due to the missing parameter. Previous behaviour was FALSE.
 * [Bugfix #62] Write Json object caused a build error due to a missing import (again)
 
 # 5.9.1

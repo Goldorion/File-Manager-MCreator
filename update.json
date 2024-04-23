@@ -1,12 +1,10 @@
 {
   "file-manager": {
-    "latest": "5.9.1",
+    "latest": "5.10",
     "changes": [
-      "[Bugfix #61] Some procedure blocks could cause build errors due to a missing import",
-      "Added Persian language support",
-      "Version 5.9:",
-      "Updated to MCreator 2024.1.15713",
-      "Added support for NeoForge 1.20.4"
+      "[#48] Add a new parameter to write lines at the end of TXT files",
+      "Note: Existing workspaces will get a build error due to the missing parameter. Previous behaviour was FALSE.",
+      "[Bugfix #62] Write Json object caused a build error due to a missing import (again)"
     ]
   }
 }
