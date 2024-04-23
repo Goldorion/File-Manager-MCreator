@@ -1,5 +1,5 @@
 {
-	com.google.gson.Gson mainGSONBuilderVariable = new GsonBuilder().setPrettyPrinting().create();
+	com.google.gson.Gson mainGSONBuilderVariable = new com.google.gson.GsonBuilder().setPrettyPrinting().create();
 
 	try {
   		FileWriter fileWriter = new FileWriter(${field$VAR?replace("local:", "")?replace("global:", "")});

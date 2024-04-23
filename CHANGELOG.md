@@ -2,6 +2,7 @@
 
 # 5.10
 * [#48] Add a new parameter to write lines at the end of TXT files
+* [Bugfix #62] Write Json object caused a build error due to a missing import (again)
 
 # 5.9.1
 * [Bugfix #61] Some procedure blocks could cause build errors due to a missing import
