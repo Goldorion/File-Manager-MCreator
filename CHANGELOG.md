@@ -1,5 +1,8 @@
 # Changelog
 
+# 5.10
+* [#48] Add a new parameter to write lines at the end of TXT files
+
 # 5.9.1
 * [Bugfix #61] Some procedure blocks could cause build errors due to a missing import
 * Added Persian language support

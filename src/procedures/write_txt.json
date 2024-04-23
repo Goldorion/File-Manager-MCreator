@@ -7,6 +7,11 @@
     {
       "type": "input_statement",
       "name": "text"
+    },
+    {
+      "type": "input_value",
+      "name": "appendMode",
+      "check": "Boolean"
     }
   ],
   "extensions": [
@@ -20,6 +25,12 @@
   "mcreator": {
     "group": "txt",
     "toolbox_id": "file_manager_actions",
+    "toolbox_init": [
+      "<value name=\"appendMode\"><block type=\"logic_boolean\"><field name=\"BOOL\">FALSE</field></block></value>"
+    ],
+    "inputs" : [
+     "appendMode"
+    ],
     "statements": [
       {
         "name": "text"
